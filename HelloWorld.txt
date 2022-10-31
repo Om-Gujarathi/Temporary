@@ -3,3 +3,4 @@
 3) Git commit to save the current status of files in commiting area.
 4) git status to see the comming area.
 5) git restore <filename> to get files out of the comitting area.
+6) this line is added by Sanskar
